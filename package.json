@@ -1,0 +1,24 @@
+{
+  "name": "filterpanel",
+  "version": "1.0.55",
+  "description": "Filter a list of items by their combined attributes.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "prepublish": "npm run build"
+  },
+  "author": "John Dimm",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-next": "^1.4.0",
+    "next": "^11.0.1",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.45.1"
+  }
+}
