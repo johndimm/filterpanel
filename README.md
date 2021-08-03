@@ -17,4 +17,6 @@ Publish steps:
   npm publish
 ```
 
+## Intro and examples
 
+<https://filterpanel-csv.vercel.app/>
