@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # filterpanel
 
-This is a react component that generates a filter panel from a table of data.   Filter panels are used by Amazon, Walmart, and many other e-commerce sites.    
+This is an npm package that exports a react component that generates a filter panel from a table of data.   Filter panels are used by Amazon, Walmart, and many other e-commerce sites.    
 
 ## Installation:
 
