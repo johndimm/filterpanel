@@ -10,13 +10,6 @@ This is an npm package that exports a react component that generates a filter pa
   npm install filterpanel --save
 ```
 
-Publish steps:
-
-```
-  npm run build
-  npm publish
-```
-
 ## Intro and examples
 
 <https://filterpanel-csv.vercel.app/>
