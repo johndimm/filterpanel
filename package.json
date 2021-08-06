@@ -1,6 +1,6 @@
 {
   "name": "filterpanel",
-  "version": "1.0.55",
+  "version": "1.0.56",
   "description": "Filter a list of items by their combined attributes.",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
     "@babel/preset-env": "^7.14.8",
     "babel-loader": "^8.2.2",
     "webpack": "^5.45.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johndimm/filterpanel"
   }
 }

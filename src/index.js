@@ -1,4 +1,4 @@
-import React, { useState, useEffect, createRef, useRef, useCallback } from 'react'
+import React, { useState, useEffect, createRef } from 'react'
 import FeatureFilter from './FeatureFilter'
 import SearchFilter from './SearchFilter'
 import GlobalStyles from './GlobalStyles'
