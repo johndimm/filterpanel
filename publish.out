@@ -1,0 +1,30 @@
+Johns-MBP:filterpanel johndimm$ npm publish
+npm notice 
+npm notice 📦  filterpanel@1.0.60
+npm notice === Tarball Contents === 
+npm notice 62B    .babelrc             
+npm notice 1.1kB  LICENSE              
+npm notice 2.9kB  README.md            
+npm notice 10.9kB dist/FeatureFilter.js
+npm notice 1.7kB  dist/GlobalStyles.js 
+npm notice 8.2kB  dist/index.js        
+npm notice 5.4kB  dist/SearchFilter.js 
+npm notice 35B    index.js             
+npm notice 656B   package.json         
+npm notice 1.1kB  publish.out          
+npm notice 26B    run.sh               
+npm notice 5.2kB  src/FeatureFilter.js 
+npm notice 1.2kB  src/GlobalStyles.js  
+npm notice 3.4kB  src/index.js         
+npm notice 1.4kB  src/SearchFilter.js  
+npm notice === Tarball Details === 
+npm notice name:          filterpanel                             
+npm notice version:       1.0.60                                  
+npm notice filename:      filterpanel-1.0.60.tgz                  
+npm notice package size:  10.9 kB                                 
+npm notice unpacked size: 43.4 kB                                 
+npm notice shasum:        a4cd4d81e76bf308d15eca74b993936daf12152c
+npm notice integrity:     sha512-Zc5poRirkAWhc[...]54uFHaheHBFEw==
+npm notice total files:   15                                      
+npm notice 
++ filterpanel@1.0.60

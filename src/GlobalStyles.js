@@ -1,6 +1,8 @@
+import React from 'react'
+
 const GlobalStyles = () => {
     return <div>
-<style global jsx>{`
+<style global="true" jsx="true">{`
 :root {
 	--factor: 1;
 }
